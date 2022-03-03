@@ -1,0 +1,5 @@
+name: WorldBorderReducer
+version: 1.0
+api-version: 1.18
+main: me.toto7735.moveWorldBorderReducer.MoveWorldBorderReducer
+author: toto7735

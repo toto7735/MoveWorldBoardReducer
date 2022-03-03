@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="adsf">
+    <output-path>$PROJECT_DIR$/../../../../testsv/plugins</output-path>
+    <root id="archive" name="adsf.jar">
+      <element id="file-copy" path="$PROJECT_DIR$/src/main/resources/plugin.yml" />
+      <element id="module-output" name="MoveWorldBoredReducer" />
+    </root>
+  </artifact>
+</component>
