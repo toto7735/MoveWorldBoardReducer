@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="MoveWorldBorderReducer">
+    <output-path>$PROJECT_DIR$/../../../../OnAIr/plugins</output-path>
+    <root id="archive" name="MoveWorldBorderReducer.jar">
+      <element id="file-copy" path="$PROJECT_DIR$/src/main/resources/plugin.yml" />
+      <element id="module-output" name="MoveWorldBoardReducer" />
+    </root>
+  </artifact>
+</component>

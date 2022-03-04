@@ -15,7 +15,7 @@ public class MoveWorldBorderReducer extends JavaPlugin {
         moveWorldBorderReducer = this;
 
         for (World world : Bukkit.getWorlds()) {
-            world.getWorldBorder().setSize(300);
+            world.getWorldBorder().setSize(3000);
         }
         Bukkit.getPluginManager().registerEvents(new Listener(), this);
     }
