@@ -1,4 +1,4 @@
-# MoveWorldBoardReducer
+# MoveWorldBorderReducer
 
 Plugin used in {YouTube Link} made by toto7735 with ❤
 
