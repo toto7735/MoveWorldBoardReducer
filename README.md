@@ -1,6 +1,6 @@
 # MoveWorldBorderReducer
 
-Plugin used in {YouTube Link} made by toto7735 with ❤
+Plugin used in https://youtu.be/J3dMoOdehpY made by toto7735 with ❤
 
 **Minecraft Version: 1.18.2**
 
@@ -14,6 +14,6 @@ Content & Plugin Idea: toto7735
 Plugin Author: toto7735
 
 Plugin Link: {Plugin Link}
-Original Video Link: {Video Link}
+Original Video Link: https://youtu.be/J3dMoOdehpY
 ------------------------------------------------------
 ```
